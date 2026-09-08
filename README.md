@@ -55,3 +55,5 @@ pytest
 ## License
 
 MIT
+
+<!-- generated: 2026-09-08 -->
