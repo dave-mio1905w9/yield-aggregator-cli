@@ -56,4 +56,4 @@ pytest
 
 MIT
 
-<!-- generated: 2026-09-22 -->
+<!-- generated: 2026-09-23 -->
